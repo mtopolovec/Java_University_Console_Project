@@ -1,0 +1,108 @@
+2019-11-13 10:08:28,130 INFO [main] h.j.v.g.Glavna [Glavna.java:70] Poèetak rada programa!
+2019-11-13 10:08:29,804 ERROR [main] h.j.v.e.Automobil [Automobil.java:100] Pogreška prilikom odreðivanja cijene osiguranja!
+hr.java.vjezbe.iznimke.NemoguceOdreditiGrupuOsiguranjaException: Previše kw, ne mogu odrediti grupu osiguranja.
+	at hr.java.vjezbe.entitet.Automobil.izracunajGrupuOsiguranja(Automobil.java:76)
+	at hr.java.vjezbe.entitet.Vozilo.izracunajCijenuOsiguranja(Vozilo.java:55)
+	at hr.java.vjezbe.entitet.Automobil.tekstOglasa(Automobil.java:96)
+	at hr.java.vjezbe.glavna.Glavna.ispisArtikala(Glavna.java:562)
+	at hr.java.vjezbe.glavna.Glavna.ispisPoKategorijama(Glavna.java:544)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:125)
+2019-11-13 10:08:29,827 ERROR [main] h.j.v.e.Automobil [Automobil.java:100] Pogreška prilikom odreðivanja cijene osiguranja!
+hr.java.vjezbe.iznimke.NemoguceOdreditiGrupuOsiguranjaException: Previše kw, ne mogu odrediti grupu osiguranja.
+	at hr.java.vjezbe.entitet.Automobil.izracunajGrupuOsiguranja(Automobil.java:76)
+	at hr.java.vjezbe.entitet.Vozilo.izracunajCijenuOsiguranja(Vozilo.java:55)
+	at hr.java.vjezbe.entitet.Automobil.tekstOglasa(Automobil.java:96)
+	at hr.java.vjezbe.glavna.Glavna.ispisArtikala(Glavna.java:562)
+	at hr.java.vjezbe.glavna.Glavna.ispisPoKategorijama(Glavna.java:544)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:125)
+2019-11-13 10:08:29,829 ERROR [main] h.j.v.e.Automobil [Automobil.java:100] Pogreška prilikom odreðivanja cijene osiguranja!
+hr.java.vjezbe.iznimke.NemoguceOdreditiGrupuOsiguranjaException: Previše kw, ne mogu odrediti grupu osiguranja.
+	at hr.java.vjezbe.entitet.Automobil.izracunajGrupuOsiguranja(Automobil.java:76)
+	at hr.java.vjezbe.entitet.Vozilo.izracunajCijenuOsiguranja(Vozilo.java:55)
+	at hr.java.vjezbe.entitet.Automobil.tekstOglasa(Automobil.java:96)
+	at hr.java.vjezbe.glavna.Glavna.lambda$2(Glavna.java:587)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1507)
+	at hr.java.vjezbe.glavna.Glavna.ispisMape(Glavna.java:587)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:126)
+2019-11-13 10:08:29,829 ERROR [main] h.j.v.e.Automobil [Automobil.java:100] Pogreška prilikom odreðivanja cijene osiguranja!
+hr.java.vjezbe.iznimke.NemoguceOdreditiGrupuOsiguranjaException: Previše kw, ne mogu odrediti grupu osiguranja.
+	at hr.java.vjezbe.entitet.Automobil.izracunajGrupuOsiguranja(Automobil.java:76)
+	at hr.java.vjezbe.entitet.Vozilo.izracunajCijenuOsiguranja(Vozilo.java:55)
+	at hr.java.vjezbe.entitet.Automobil.tekstOglasa(Automobil.java:96)
+	at hr.java.vjezbe.glavna.Glavna.lambda$2(Glavna.java:587)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1507)
+	at hr.java.vjezbe.glavna.Glavna.ispisMape(Glavna.java:587)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:126)
+2019-11-13 10:08:29,830 INFO [main] h.j.v.g.Glavna [Glavna.java:132] Kraj rada programa!
+2020-02-08 22:59:08,976 INFO [main] h.j.v.g.Glavna [Glavna.java:70] Poèetak rada programa!
+2020-02-08 22:59:35,939 ERROR [main] h.j.v.e.Automobil [Automobil.java:100] Pogreška prilikom odreðivanja cijene osiguranja!
+hr.java.vjezbe.iznimke.NemoguceOdreditiGrupuOsiguranjaException: Previše kw, ne mogu odrediti grupu osiguranja.
+	at hr.java.vjezbe.entitet.Automobil.izracunajGrupuOsiguranja(Automobil.java:76)
+	at hr.java.vjezbe.entitet.Vozilo.izracunajCijenuOsiguranja(Vozilo.java:55)
+	at hr.java.vjezbe.entitet.Automobil.tekstOglasa(Automobil.java:96)
+	at hr.java.vjezbe.glavna.Glavna.ispisArtikala(Glavna.java:562)
+	at hr.java.vjezbe.glavna.Glavna.ispisPoKategorijama(Glavna.java:544)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:125)
+2020-02-08 22:59:35,940 ERROR [main] h.j.v.e.Automobil [Automobil.java:100] Pogreška prilikom odreðivanja cijene osiguranja!
+hr.java.vjezbe.iznimke.NemoguceOdreditiGrupuOsiguranjaException: Previše kw, ne mogu odrediti grupu osiguranja.
+	at hr.java.vjezbe.entitet.Automobil.izracunajGrupuOsiguranja(Automobil.java:76)
+	at hr.java.vjezbe.entitet.Vozilo.izracunajCijenuOsiguranja(Vozilo.java:55)
+	at hr.java.vjezbe.entitet.Automobil.tekstOglasa(Automobil.java:96)
+	at hr.java.vjezbe.glavna.Glavna.ispisArtikala(Glavna.java:562)
+	at hr.java.vjezbe.glavna.Glavna.ispisPoKategorijama(Glavna.java:544)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:125)
+2020-02-08 22:59:35,941 ERROR [main] h.j.v.e.Automobil [Automobil.java:100] Pogreška prilikom odreðivanja cijene osiguranja!
+hr.java.vjezbe.iznimke.NemoguceOdreditiGrupuOsiguranjaException: Previše kw, ne mogu odrediti grupu osiguranja.
+	at hr.java.vjezbe.entitet.Automobil.izracunajGrupuOsiguranja(Automobil.java:76)
+	at hr.java.vjezbe.entitet.Vozilo.izracunajCijenuOsiguranja(Vozilo.java:55)
+	at hr.java.vjezbe.entitet.Automobil.tekstOglasa(Automobil.java:96)
+	at hr.java.vjezbe.glavna.Glavna.lambda$2(Glavna.java:587)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1507)
+	at hr.java.vjezbe.glavna.Glavna.ispisMape(Glavna.java:587)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:126)
+2020-02-08 22:59:35,942 ERROR [main] h.j.v.e.Automobil [Automobil.java:100] Pogreška prilikom odreðivanja cijene osiguranja!
+hr.java.vjezbe.iznimke.NemoguceOdreditiGrupuOsiguranjaException: Previše kw, ne mogu odrediti grupu osiguranja.
+	at hr.java.vjezbe.entitet.Automobil.izracunajGrupuOsiguranja(Automobil.java:76)
+	at hr.java.vjezbe.entitet.Vozilo.izracunajCijenuOsiguranja(Vozilo.java:55)
+	at hr.java.vjezbe.entitet.Automobil.tekstOglasa(Automobil.java:96)
+	at hr.java.vjezbe.glavna.Glavna.lambda$2(Glavna.java:587)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1507)
+	at hr.java.vjezbe.glavna.Glavna.ispisMape(Glavna.java:587)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:126)
+2020-02-08 22:59:35,942 INFO [main] h.j.v.g.Glavna [Glavna.java:132] Kraj rada programa!
+2020-02-08 23:09:30,229 INFO [main] h.j.v.g.Glavna [Glavna.java:70] Poèetak rada programa!
+2020-02-08 23:10:01,616 ERROR [main] h.j.v.e.Automobil [Automobil.java:100] Pogreška prilikom odreðivanja cijene osiguranja!
+hr.java.vjezbe.iznimke.NemoguceOdreditiGrupuOsiguranjaException: Previše kw, ne mogu odrediti grupu osiguranja.
+	at hr.java.vjezbe.entitet.Automobil.izracunajGrupuOsiguranja(Automobil.java:76)
+	at hr.java.vjezbe.entitet.Vozilo.izracunajCijenuOsiguranja(Vozilo.java:55)
+	at hr.java.vjezbe.entitet.Automobil.tekstOglasa(Automobil.java:96)
+	at hr.java.vjezbe.glavna.Glavna.ispisArtikala(Glavna.java:562)
+	at hr.java.vjezbe.glavna.Glavna.ispisPoKategorijama(Glavna.java:544)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:125)
+2020-02-08 23:10:01,617 ERROR [main] h.j.v.e.Automobil [Automobil.java:100] Pogreška prilikom odreðivanja cijene osiguranja!
+hr.java.vjezbe.iznimke.NemoguceOdreditiGrupuOsiguranjaException: Previše kw, ne mogu odrediti grupu osiguranja.
+	at hr.java.vjezbe.entitet.Automobil.izracunajGrupuOsiguranja(Automobil.java:76)
+	at hr.java.vjezbe.entitet.Vozilo.izracunajCijenuOsiguranja(Vozilo.java:55)
+	at hr.java.vjezbe.entitet.Automobil.tekstOglasa(Automobil.java:96)
+	at hr.java.vjezbe.glavna.Glavna.ispisArtikala(Glavna.java:562)
+	at hr.java.vjezbe.glavna.Glavna.ispisPoKategorijama(Glavna.java:544)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:125)
+2020-02-08 23:10:01,618 ERROR [main] h.j.v.e.Automobil [Automobil.java:100] Pogreška prilikom odreðivanja cijene osiguranja!
+hr.java.vjezbe.iznimke.NemoguceOdreditiGrupuOsiguranjaException: Previše kw, ne mogu odrediti grupu osiguranja.
+	at hr.java.vjezbe.entitet.Automobil.izracunajGrupuOsiguranja(Automobil.java:76)
+	at hr.java.vjezbe.entitet.Vozilo.izracunajCijenuOsiguranja(Vozilo.java:55)
+	at hr.java.vjezbe.entitet.Automobil.tekstOglasa(Automobil.java:96)
+	at hr.java.vjezbe.glavna.Glavna.lambda$2(Glavna.java:587)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1507)
+	at hr.java.vjezbe.glavna.Glavna.ispisMape(Glavna.java:587)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:126)
+2020-02-08 23:10:01,618 ERROR [main] h.j.v.e.Automobil [Automobil.java:100] Pogreška prilikom odreðivanja cijene osiguranja!
+hr.java.vjezbe.iznimke.NemoguceOdreditiGrupuOsiguranjaException: Previše kw, ne mogu odrediti grupu osiguranja.
+	at hr.java.vjezbe.entitet.Automobil.izracunajGrupuOsiguranja(Automobil.java:76)
+	at hr.java.vjezbe.entitet.Vozilo.izracunajCijenuOsiguranja(Vozilo.java:55)
+	at hr.java.vjezbe.entitet.Automobil.tekstOglasa(Automobil.java:96)
+	at hr.java.vjezbe.glavna.Glavna.lambda$2(Glavna.java:587)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1507)
+	at hr.java.vjezbe.glavna.Glavna.ispisMape(Glavna.java:587)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:126)
+2020-02-08 23:10:01,619 INFO [main] h.j.v.g.Glavna [Glavna.java:132] Kraj rada programa!
